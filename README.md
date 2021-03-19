@@ -3,6 +3,13 @@
 https://app.pluralsight.com/library/courses/implementing-terraform-aws/table-of-contents
 https://github.com/mihaivirlan/implementing-terraform-on-aws
 
+# TL;DR
+
+Just use the script `run.sh` with an argument to the folder in which you want it to run, i.e.:
+```shell
+./run.sh simple-s3
+```
+
 ## Motivation
 
 In order to grasp more about what [terraform](https://www.terraform.io/) has to offer in terms of AWS, 
