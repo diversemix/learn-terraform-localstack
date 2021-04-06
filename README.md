@@ -39,3 +39,7 @@ Aliases used:
 alias dc='docker-compose'
 alias laws='aws --endpoint-url=http://localhost:4566 '
 ```
+
+# Reading
+
+- https://github.com/cloudposse/
